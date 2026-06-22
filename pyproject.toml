@@ -1,0 +1,7 @@
+[project]
+name = "productiongrade-rag"
+version = "0.1.0"
+description = "Production Grade RAG Project"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = []
